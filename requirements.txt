@@ -2,8 +2,8 @@ numpy
 pandas
 Flask
 scikit-learn
-torch+cpu
-torchvision+cpu
+torch==1.7.1
+torchvision
 requests
 Pillow
 gunicorn == 20.0.4
